@@ -6444,6 +6444,11 @@ footer{
 
 @media screen and (max-width:372px){
 
+    .end_left{
+        padding-left: 20px;
+        padding-top: 15px;
+    }
+
     nav label input{
         background: none;
         border: none;
